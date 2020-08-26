@@ -2,10 +2,15 @@
 
 ### This is a non-inclusive list of Summer of 2021 Computer Science internship opportunities
 ###### The list is broken up by general business category as well as by local companies here in San Antonio, TX.
+###### You can also check out [Tech Talent Central](https://techtalentcentral.com/job-openings/) for additional local positions.
 ###### All links bring you at least to the individual company's careers Webpage.
-
-
-
+###### You might also want to search the following Websites for opportunities not listed on this page:
+###### [Wayup](https://www.wayup.com/), [AngelList](https://angel.co/jobs), [First Round Capital](https://firstround.com/talent/), [LinkedIn](https://www.linkedin.com/jobs/), or [StackOverFlow](https://stackoverflow.com/jobs?sort=i&q=internship)
+###### Additionally, you can read "[25 Best Job Sites for Finding Your FIRST Developer Job](https://skillcrush.com/blog/job-sites-to-find-your-first-developer-job/)" which will give you additional resources to assist you in your task.
+---
+#### We also recommend using a tracking mechanism to ensure that you can determine which positions are a best fit to you, track which ones you have applied to, and then which ones you have to follow-up on.
+#### This blog, "[Practical guide to navigate your internship hunt](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a#c329)", has a spreadsheet example as well as guidance as to what you should be tracking. 
+---
 
 ## 2021 Summer Internship Opportunities
 
@@ -23,6 +28,26 @@
 | [SWRI](https://www.swri.org/careers/interns) |||
 | [ESRI](https://www.esri.com/en-us/about/careers/student-jobs) |||
 | [Students+Startups](https://studentsstartups.com/) |||
+| [Plus One Robotics](https://plusonerobotics.com/careers/) |||
+| [Deloitte.](https://www2.deloitte.com/us/en/careers/students.html?icid=top_students) |||
+| [Whataburger](https://whataburger.com/careers/homeandfield) |||
+| [Jon Wayne Service Company](https://jonwayne.com/about/careers) |||
+| [CACI](https://careers.caci.com/college)	|||	
+| [CyberTexas Foundation](https://cybertexas.org/cybertexas-internships-2/) |||
+| [Spurs Sports & Entertainment](https://www.nba.com/spurs/careers) |||
+| [Keen](https://scaleworks.com/careers/) |||
+| [TINT](https://scaleworks.com/careers/) |||
+| [Parlevel](https://www.parlevelsystems.com/careers/) |||
+| [Modern Managed IT](https://www.indeedjobs.com/modern-managed-it-llc?cpref=JXWAtnzf3XX4371-iVwtScKhmt5T2XHWQjfCTX0V3HY) |||
+| [Dura Software](https://www.indeed.com/cmp/Dura-Software?attributionid=adwebapp) |||
+| [roverpass](https://www.roverpass.com/p/careers) |||
+| [6Connex](https://www.6connex.com/careers/) |||
+| [Synapse](https://angel.co/company/synapsefi/jobs) |||
+| [Edwards Aquifer Authority](https://www.governmentjobs.com/careers/edwardsaquifer) |||
+| [City of San Antonio Ambassador Summer Internship Program](https://www.sanantonio.gov/humanservices/educationservices/ambassadorprogram) |||
+
+
+
 
 
 
@@ -98,7 +123,7 @@
 | **Company** | **Business Insider** | **Vault** |			
 | [IBM](https://www.ibm.com/us-en/employment/internships/) |#8|#14|
 | [Salesforce](https://www.salesforce.com/company/careers/university-recruiting/) |||		
-| [SAP](https://www.sap.com/about/careers/students-graduates/graduates.html) |||	
+| [SAP](https://www.sap.com/about/careers/students-graduates.html) |||	
 | [SAS](https://www.sas.com/en_us/careers/students-and-graduates/internships-and-fellowships.html) |||		
 | [GitHub](https://internships.github.com/) |||	
 | [Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads) |||
@@ -121,6 +146,13 @@
 | [Figma](https://www.figma.com/careers/) |||
 | [Splunk](https://www.splunk.com/en_us/careers/university-recruiting.html) |||
 | [Appian](https://www.appian.com/careers/campus-recruiting/) |||
+| [oceanit](https://www.oceanit.com/student-intern-program/) |||
+| [Micro Focus](https://jobs.microfocus.com/global/en/c/graduate-intern-jobs) |||
+| [ANB Solutions](https://www.anbsystems.com/careers/careers.html) |||
+| [Kuali](https://www.kuali.co/jobs) |||
+| [Verys](https://verys.catsone.com/careers/) |||
+
+
 
 
 
@@ -200,6 +232,7 @@
 | [General Motors](https://search-careers.gm.com/student-grad) |||
 | [Toyota](https://www.toyota.com/usa/careers/) |||
 | [Volvo](https://www.volvogroup.com/en-en/careers/opportunities-for-students.html) |||
+| [Applied Intuition](https://www.appliedintuition.com/careers) |||
 
 
 
@@ -221,6 +254,7 @@
 | **Company** | **Business Insider** | **Vault** |
 | [Carmax](https://careers.carmax.com/us/en/carmax-internship-opportunities) |||
 | [Carvana](https://www.carvana.com/careers) |||
+| [Copart](https://www.copart.com/content/us/en/careers/internships-at-copart) |||
 
 
 
@@ -275,6 +309,8 @@
 | [Target](https://corporate.target.com/careers/internships) |||
 | [Gap](https://www.gapinc.com/en-us/careers/students-and-recent-grads) |||
 | [Starbucks](https://www.starbucks.com/careers/find-a-job/internships) |||		
+| [Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) |||
+| [Nordstrom](https://careers.nordstrom.com/#/student-center/requirements) |||
 
 
 
@@ -330,6 +366,7 @@
 | [UnitedHealth Group](https://careers.unitedhealthgroup.com/early-careers) |||
 | [Biogen](https://www.biogen.com/en_us/internships-co-ops.html) |||
 | [Bayer](https://career.bayer.us/en/Working-at-Bayer/Students-Graduates) |||
+| [Johnson & Johnson](https://jobs.jnj.com/jobs/experienceLevel/Student) |||
 
 
 
@@ -392,14 +429,8 @@
 | Government Contractors: |||
 | -----------------------------------|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** |		
-| [CACI](https://careers.caci.com/college)	|||	
 | [Booz Allen Hamilton](https://careers.boozallen.com/talent/university) |||
 | [Leidos](https://careers.leidos.com/search/intern/jobs) |||	
 | [Palantir](https://www.palantir.com/students/) |||
 | [Fast Enterprises](https://www.fastenterprises.com/careers/positions/) |||
-
-
-| Other companies to look for on Job Websites:| |
-|---------------------------------------------|-|
-| vroom | Automotive Sales|
-| matco tools | Tools |
+| [Northrop Grumman](https://www.northropgrumman.com/careers/internships-at-northrop-grumman/) |||
