@@ -19,11 +19,11 @@
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
 | [Oracle](https://www.oracle.com/corporate/careers/students-grads/) |  #15  ||
 | [ESRI](https://www.esri.com/en-us/about/careers/student-jobs) ||| Top 100 |
-| [HEB](https://careers.heb.com/university-grads-interns/) ||||
+| [USAA](https://www.usaajobs.com/university) ||| Top 100 |
+| [HEB](https://careers.heb.com/university-grads-interns/)||||
 | [Rackspace Technology](https://rackspace.jobs/) |||
-| [USAA](https://www.usaajobs.com/university) |||
-| [Accenture](https://www.accenture.com/us-en/careers/local/students) |||
-| [Accenture Federal Services](https://www.accenture.com/us-en/careers/local/students) |||
+| [Accenture](https://acn.avature.net/talentPortal) |||
+| [Accenture Federal Services](https://acn.avature.net/talentPortal) |||
 | [Frost Bank](https://www.frostbank.com/careers) |||
 | [iHeart Radio](https://jobs.iheart.com/) |||
 | [SWRI](https://www.swri.org/careers/interns) |||
@@ -55,14 +55,14 @@
 
 
 
-| Big Tech: ||||
+| Big Tech (FAANG): ||||
 | -----------------------------------|:-:|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
-| [Google](https://careers.google.com/students/) |#1|#1| Top 100 |
-| [Apple](https://www.apple.com/jobs/us/students.html) |#2|#2|
 | [Facebook](https://www.facebook.com/careers/students-and-grads/) |#3|#7| Top 100 |
-| [Microsoft](https://careers.microsoft.com/students/us/en) |#4|#4|
 | [Amazon](https://www.amazon.jobs/en/business_categories/student-programs) |#6|#5|
+| [Apple](https://www.apple.com/jobs/us/students.html) |#2|#2|
+| [Netflix](https://jobs.netflix.com/)	|#7||
+| [Google](https://careers.google.com/students/) |#1|#1| Top 100 |
 
 
 
@@ -90,7 +90,6 @@
 | Entertainment: ||||
 | -----------------------------------|:-:|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
-| [Netflix](https://jobs.netflix.com/)	|#7||
 | [Warner Brothers (HBO)](https://www.warnerbroscareers.com/internships/) |#13||		
 | [Spotify](https://www.spotifyjobs.com/students/)	|#14||	
 | [Hulu](https://www.hulu.com/jobs/university)	|#18	||
@@ -101,6 +100,7 @@
 | Hardware: ||||
 | -----------------------------------|:-:|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
+| [Microsoft](https://careers.microsoft.com/students/us/en) |#4|#4|
 | [Samsung](https://www.samsung.com/us/careers/internships/)|#16||
 | [HP](https://jobs.hp.com/en-us/Students-Graduates) |#17||
 | [Intel](https://jobs.intel.com/page/show/internships) ||#9|
@@ -123,7 +123,8 @@
 
 | Software: ||||
 | -----------------------------------|:-:|:-:|:-:|
-| **Company** | **Business Insider** | **Vault** | **WayUp** 		
+| **Company** | **Business Insider** | **Vault** | **WayUp** |
+| [Microsoft](https://careers.microsoft.com/students/us/en) |#4|#4|
 | [IBM](https://www.ibm.com/us-en/employment/internships/) |#8|#14| Top 100 |
 | [The Brandlab](https://www.thebrandlab.org/internships/) ||| #1 Diversity-Focused |
 | [Omnitracs](https://careers-omnitracs.icims.com/jobs/search?hashed=-626004045&mobile=false&width=1495&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) ||| #1 Virtual |
@@ -164,6 +165,7 @@
 | -----------------------------------|:-:|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
 | [C3.ai](https://c3.ai/careers/) ||| Top 100 |
+| [Quantcast](https://www.quantcast.com/careers/) ||||
 
 
 
@@ -220,6 +222,7 @@
 | [EA](https://www.ea.com/careers/students) |||
 | [Zynga](https://www.zynga.com/jobs/university/) |||
 | [Konami](https://www.konami.com/jobs/en/career/) |||
+| [Zenimax](https://jobs.zenimax.com/) ||||
 
 
 
