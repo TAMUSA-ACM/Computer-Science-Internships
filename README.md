@@ -14,16 +14,16 @@
 
 ## 2021 Summer Internship Opportunities
 
-| Local: ||||
-| -----------------------------------|:-:|:-:|:-:|
-| **Company** | **Business Insider** | **Vault** | **WayUp** |
-| [Oracle](https://www.oracle.com/corporate/careers/students-grads/) |  #15  ||
-| [ESRI](https://www.esri.com/en-us/about/careers/student-jobs) ||| Top 100 |
+| Local: |||||
+| -|:-:|:-:|:-:|:-:|
+| **Company** | **Recruiter** | **Business Insider** | **Vault** | **WayUp** |
+| [Oracle](https://www.oracle.com/corporate/careers/students-grads/) ||  #15  ||
+| [ESRI](https://www.esri.com/en-us/about/careers/student-jobs) |||| Top 100 |
 | [USAA](https://www.usaajobs.com/university) ||| Top 100 |
-| [HEB](https://careers.heb.com/university-grads-interns/)||||
+| [HEB](https://careers.heb.com/university-grads-interns/) | [Mayra Calderon](https://www.linkedin.com/in/mayra-calderon-349b7a153/) ||||
 | [Rackspace Technology](https://rackspace.jobs/) |||
 | [Accenture](https://acn.avature.net/talentPortal) |||
-| [Accenture Federal Services](https://acn.avature.net/talentPortal) |||
+| [Accenture Federal Services](https://acn.avature.net/talentPortal) | []() |||
 | [Frost Bank](https://www.frostbank.com/careers) |||
 | [iHeart Radio](https://jobs.iheart.com/) |||
 | [SWRI](https://www.swri.org/careers/interns) |||
@@ -61,7 +61,7 @@
 | [Facebook](https://www.facebook.com/careers/students-and-grads/) |#3|#7| Top 100 |
 | [Amazon](https://www.amazon.jobs/en/business_categories/student-programs) |#6|#5|
 | [Apple](https://www.apple.com/jobs/us/students.html) |#2|#2|
-| [Netflix](https://jobs.netflix.com/)	|#7||
+| [Netflix](https://jobs.netflix.com/)	(No Internships or recent grad programs)|#7||
 | [Google](https://careers.google.com/students/) |#1|#1| Top 100 |
 
 
@@ -158,6 +158,9 @@
 | [ANB Solutions](https://www.anbsystems.com/careers/careers.html) |||
 | [Kuali](https://www.kuali.co/jobs) |||
 | [Verys](https://verys.catsone.com/careers/) |||
+| [OSIsoft](https://www.osisoft.com/about-osisoft/careers/) |||
+| [Cvent](https://www.cvent.com/en/careers/campus-recruiting) |||
+| [MongoDB](https://www.mongodb.com/careers/departments/college-students) |||
 
 
 
@@ -295,7 +298,7 @@
 
 
 
-| Farm/ Construction Equip: ||||
+| Farming: ||||
 | -----------------------------------|:-:|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
 | [Apeel Sciences Technology](https://apeelsciences.com/result-careers/?jobCat=61028) ||| Top 100 |
@@ -363,6 +366,7 @@
 | [AllianceBernstein](https://www.alliancebernstein.com/careers/students.htm) |||
 | [Jane Street](https://www.janestreet.com/join-jane-street/internships/) |||
 | [Wolverine Trading](https://www.wolve.com/careers) |||
+| [US Bank](https://www.usbank.com/careers/internships/index.html) |||
 
 
 
