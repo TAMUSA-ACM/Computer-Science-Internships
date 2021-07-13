@@ -46,7 +46,7 @@
 | [Edwards Aquifer Authority](https://www.governmentjobs.com/careers/edwardsaquifer) |||
 | [City of San Antonio Ambassador Summer Internship Program](https://www.sanantonio.gov/humanservices/educationservices/ambassadorprogram) |||
 | [Valero](https://www.valero.com/en-us/Careers/UniversityRecruiting) |||
-
+| [itron](https://www.itron.com/na/company/who-we-are/careers/university) |[Jessica Coakley](https://www.linkedin.com/in/jessicacoakley/)||
 
 
 
@@ -391,6 +391,7 @@
 | [Biogen](https://www.biogen.com/en_us/internships-co-ops.html) |||
 | [Bayer](https://career.bayer.us/en/Working-at-Bayer/Students-Graduates) |||
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/experienceLevel/Student) |||
+| [Kimberly Clark](https://www.careers.kimberly-clark.com/en/our-careers/college-students) |||
 
 
 
