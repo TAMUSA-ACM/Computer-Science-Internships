@@ -116,6 +116,7 @@
 | [Motorola](https://www.motorolasolutions.com/en_us/about/careers.html) |||
 | [Vail](https://www.vailsys.com/about/internships/) |||
 | [Samsara](https://www.samsara.com/careers) |||
+| [Lenovo](https://jobs.lenovo.com/en_US/careers/University) |||
 
 
 
