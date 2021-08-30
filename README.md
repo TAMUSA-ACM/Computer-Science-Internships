@@ -287,12 +287,12 @@
 
 
 
-| Delivery: ||||
+| Supply Chain: ||||
 | -----------------------------------|:-:|:-:|:-:|
 | **Company** | **Business Insider** | **Vault** | **WayUp** |
 | [UPS](https://www.jobs-ups.com/engineering-internships) |||
 | [FEDEX](https://careers.fedex.com/intern) |||
-
+| [Convoy](https://convoy.com/university/)|[Mikayla Hougan](https://www.linkedin.com/in/mikaylahougan/)||
 
 
 
