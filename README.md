@@ -1,11 +1,11 @@
 # Computer Science Internships
 
-### This is a non-inclusive list of Summer of 2021 Computer Science internship opportunities
+### This is a non-inclusive list of Summer of 2022 Computer Science internship and recent graduate opportunities
 ###### The list is broken up by general business category as well as by local companies here in San Antonio, TX.
 ###### You can also check out [Tech Talent Central](https://techtalentcentral.com/job-openings/) for additional local positions.
 ###### All links bring you at least to the individual company's careers Webpage.
 ###### You might also want to search the following Websites for opportunities not listed on this page:
-###### [Wayup](https://www.wayup.com/), [AngelList](https://angel.co/jobs), [First Round Capital](https://firstround.com/talent/), [LinkedIn](https://www.linkedin.com/jobs/), or [StackOverFlow](https://stackoverflow.com/jobs?sort=i&q=internship)
+###### [Handshake](https://app.joinhandshake.com/), [RippleMatch](https://ripplematch.com/), [Canvas](https://ripplematch.com/), [Smartr](https://www.smartr.me/), [Wayup](https://www.wayup.com/), [AngelList](https://angel.co/jobs), [First Round Capital](https://firstround.com/talent/), [LinkedIn](https://www.linkedin.com/jobs/), or [StackOverFlow](https://stackoverflow.com/jobs?sort=i&q=internship)
 ###### Additionally, you can read "[25 Best Job Sites for Finding Your FIRST Developer Job](https://skillcrush.com/blog/job-sites-to-find-your-first-developer-job/)" which will give you additional resources to assist you in your task.
 ---
 #### We also recommend using a tracking mechanism to ensure that you can determine which positions are a best fit to you, track which ones you have applied to, and then which ones you have to follow-up on.
