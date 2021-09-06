@@ -94,6 +94,8 @@
 | [Spotify](https://www.spotifyjobs.com/students/)	|#14||	
 | [Hulu](https://www.hulu.com/jobs/university)	|#18	||
 | [Disney](https://jobs.disneycareers.com/professional-internships)		||#11|
+| [Comcast](https://jobs.comcast.com/programs/university-relations) |||
+| [Sirius/XM Pandora](https://jobs.jobvite.com/siriusxm/p/internships) |||
 
 
 
