@@ -2,39 +2,71 @@
 
 ## Project Overview
 
-Welcome to the Computer-Science-Internships repository! This repository provides a comprehensive, yet non-inclusive list of 2022 summer computer science internship and recent graduate opportunities. Our focus is mainly on defense, public-sector, and US government roles, particularly those located in San Antonio, TX. Additionally, we provide resources for additional job search platforms to help you expand your search. Whether you're interested in frontend, HTML, or web development roles in the army, defense, DoD, or public-sector, this repository is a valuable resource for you.
+Welcome to the **Computer-Science-Internships** repository! This project is dedicated to compiling a comprehensive, yet non-inclusive list of 2022 summer computer science internship and recent graduate opportunities. The focus is primarily on defense, public-sector, and US government roles, with a special emphasis on opportunities available in San Antonio, TX. Additionally, this repository provides resources for other job search platforms that might be helpful to candidates seeking similar positions.
 
-## Setup and Installation
+The repository is structured as follows:
+- **/internships**: This directory contains a markdown file listing internship opportunities, categorized by organization and type of role.
+- **/resources**: Here, you'll find a collection of links and descriptions to various job search platforms and tools that can assist in finding further internship opportunities.
+- **README.md**: Provides an overview of the repository, how to use it, and how to contribute.
 
-This repository doesn't require any specific setup or installation, as it's primarily informational. You can clone it to your local machine if you wish to have offline access to the information.
+## Setup Instructions
 
-To clone the repository, use the following command in your terminal:
+As this repository primarily consists of documentation and resources, there is no installation process involved. Users can view the information directly on GitHub or clone the repository to their local machine using the following git command:
 
 ```bash
-git clone https://github.com/username/Computer-Science-Internships.git
+git clone https://github.com/yourusername/Computer-Science-Internships.git
 ```
-
-Replace 'username' with the actual GitHub username.
 
 ## Usage
 
-To use this repository, simply navigate through the files. Each file is named according to the organization or the sector it represents. Inside, you'll find details about the internship or job opportunity, including the role, responsibilities, qualifications, and how to apply.
+To make the most out of this repository, follow these steps:
 
-For example, to find opportunities in the defense sector, navigate to the 'defense.md' file.
+1. **Explore Internship Listings**:
+   - Navigate to the `/internships` directory.
+   - Choose the file corresponding to the sector you are interested in.
+   - Review the listed opportunities and follow the application instructions provided for each role.
 
-## Contribution Guidelines
+2. **Utilize Additional Resources**:
+   - Visit the `/resources` directory.
+   - Browse through the various platforms and tools listed.
+   - Use these resources to expand your job search and find additional internship opportunities.
 
-Contributions are warmly welcomed! If you know of an opportunity that isn't listed here, or if you find an error or outdated information, please feel free to contribute. 
+## How to Contribute
 
-To make a contribution:
+Contributions to the **Computer-Science-Internships** repository are welcome! Here’s how you can contribute:
 
-1. Fork this repository.
-2. Create a new branch in your forked repository.
-3. Make your changes or additions in your new branch.
-4. Submit a pull request detailing your changes.
+1. **Fork the Repository**:
+   - Fork the repository to your GitHub account.
 
-Please ensure that your contributions are clear, concise, and adhere to the existing format of the repository for consistency.
+2. **Clone the Fork**:
+   - Clone your forked repository to your local machine.
+
+3. **Create a New Branch**:
+   - Create a new branch for your contributions.
+
+4. **Make Your Changes**:
+   - Add new internship opportunities or resources.
+   - Update or improve the existing listings and documents.
+
+5. **Commit Your Changes**:
+   - Commit your changes with a clear, descriptive commit message.
+
+6. **Push to GitHub**:
+   - Push your changes to your fork on GitHub.
+
+7. **Submit a Pull Request**:
+   - Open a pull request from your fork to the main repository.
+   - Provide a concise and informative title and description for your pull request.
+
+8. **Respond to Feedback**:
+   - If there are any comments or suggestions from the repository maintainers, respond and make necessary adjustments to your submissions.
 
 ## License
 
-This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file in this repository.
+This project is released under the MIT License. This allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided the original copyright notice and permission notice are included in all copies or substantial portions of the software.
+
+For more details, see the [LICENSE](LICENSE.md) file included with this repository.
+
+---
+
+Thank you for visiting the **Computer-Science-Internships** repository! Whether you're seeking an internship or looking to contribute, we hope this resource proves helpful.
